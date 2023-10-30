@@ -1,0 +1,1 @@
+# 06.Advanced-Querying-Exercises-BookShop-6.0
